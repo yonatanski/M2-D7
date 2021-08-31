@@ -19,7 +19,7 @@
     border: 3px solid rgb(64, 245, 27);
     border: radius 10px;
 }
-/* EX4) Write a selector to target the first blogpost Dangerous ************* */
+/* EX4) Write a selector to target the first blogpost  ************* */
 .row .col-md-6 .row .col{
     background-color:yellow;
 }
@@ -36,7 +36,7 @@
 
 /* EX7) Write a selector to target all the li into the first ordered-list in the sidebar ( Archives ) */
 .col-md-4 .p-4 .list-unstyled li a{
-    color: rgb(155, 109, 230)!important;
+    color: rgb(255, 0, 0)!important;
 }
 /* EX8) Write a selector to target the second post author */
 .blog-post{
